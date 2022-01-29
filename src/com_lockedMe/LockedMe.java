@@ -70,6 +70,7 @@ public class LockedMe
 	 */
 	public static void getAllFiles()
 	{
+		System.out.println("These are the files created in the project directory:\n");
 		try
 		{
 		//Creating a File object for directory
